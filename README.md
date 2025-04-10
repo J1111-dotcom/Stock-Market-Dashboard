@@ -43,7 +43,7 @@ Both approaches use live financial data pulled from Yahoo Finance via the `yfina
 
 ## Notebook Preview
 
-![Notebook Screenshot](images/AMD_Stock_Price_Chart.png)
+![Notebook Screenshot](images/AMD_Stock_Price_Chart.PNG)
 ---
 
 ## How to Run
